@@ -5,4 +5,4 @@ navigation_weight: 1
 ---
 
 Привет, всем!!!
-Здесь вторая станица
+{{site.baseurl}}{% post_url blog%}Здесь вторая станица
