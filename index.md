@@ -5,4 +5,4 @@ navigation_weight: 1
 ---
 
 Привет, всем!!!
-[Здесь вторая страница]({{site.baseurl}}{% post_url blog.md %})
+[Здесь вторая страница]({{site.baseurl}}{% link blog.md %})
